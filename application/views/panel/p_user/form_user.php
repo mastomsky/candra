@@ -36,7 +36,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="password">Password</label>
-                                <input type="text" class="form-control" id="password" name="password" placeholder="***********">
+                                <input type="password" class="form-control" id="password" name="password" placeholder="***********">
                             </div>
                             <div class="form-group">
                                 <label for="ket">Jenis Kelamin</label>

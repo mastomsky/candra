@@ -29,7 +29,7 @@
                     </div>
                     <!-- /.card-header -->
                     <!-- form start -->
-                    <form enctype="multipart/form-data" action="<?= site_url('c/panel/halaman/process') ?>" method="POST">
+                    <form enctype="multipart/form-data" action="<?= site_url('panel/halaman/process') ?>" method="POST">
                         <div class="card-body">
                             <div class="form-group">
                                 <label for="email">Email</label>
